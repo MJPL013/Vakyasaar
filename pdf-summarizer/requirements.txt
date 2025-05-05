@@ -1,0 +1,9 @@
+tensorflow==2.14.0
+numpy
+pandas
+sentencepiece
+scikit-learn
+pyarrow
+tqdm
+matplotlib
+regex
