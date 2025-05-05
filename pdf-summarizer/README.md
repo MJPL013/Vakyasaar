@@ -26,7 +26,7 @@ Scrapes press releases from the [PIB Southern Region](https://pib.gov.in/allRel.
 - Asynchronously scrapes all press release metadata (title, date, link)
 - Filters English-language PDFs only
 - Downloads and extracts clean text from PDFs
-- Stores output in `all_pdf_data.csv`
+- Stores output in `all_pdf_data.jsonl`
 
 > 📁 Script: `Train_set.py`
 
